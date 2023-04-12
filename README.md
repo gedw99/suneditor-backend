@@ -4,6 +4,9 @@ CDC based backend for suneditor
 
 ## Concept
 
+![alt text](https://raw.githubusercontent.com/gedw99/suneditor-backend/main/concept.png)
+
+
 Left Pane is a File System view
 
 Right Pane is a XML Properies view.
