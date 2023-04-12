@@ -14,10 +14,11 @@ func main() {
 	// Fiber instance
 	app := fiber.New()
 
+	// Static file server for dist
+	app.Static("/dist", "./suneditor/dist")
+
 	// Static file server
 	app.Static("/", "./suneditor/sample")
-	// => http://localhost:3000/hello.txt
-	// => http://localhost:3000/gopher.gif
 
 	// Start server
 	log.Fatal(app.Listen(":3000"))
