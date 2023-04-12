@@ -11,10 +11,7 @@ Left Pane is a File System view
 
 Right Pane is a XML Properies view.
 
-## Features
-
-[a relative link](features.md)
-
+## Use cases
 
 ### Collaboration
 
