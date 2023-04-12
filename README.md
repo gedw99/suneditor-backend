@@ -2,6 +2,11 @@
 
 CDC based backend for suneditor
 
+
+!! WIP !!
+
+![alt text](https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png)
+
 ## Concept
 
 ![alt text](https://raw.githubusercontent.com/gedw99/suneditor-backend/main/concept-01.jpg)
