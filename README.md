@@ -27,7 +27,7 @@ The following [features](features.md) are planned so that the system is fully fe
 
 - Caddy NATS hooks
 
-- Does your JS have hooks that fire when a user mutates text or a cat image for example ?
+- @JiHong88: Does your JS have hooks that fire when a user mutates text or a cat image for example ?
   - Cause then i can take that hook, send it to the backend or update the backend and all other collaboritive users that the change occurred and then show it in their Sun Editor.
 
 - CDC File system watcher
