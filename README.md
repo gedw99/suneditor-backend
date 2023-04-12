@@ -34,6 +34,8 @@ The following [features](features.md) are planned so that the system is fully fe
 
 - @JiHong88: JS mutation hooks: https://github.com/gedw99/suneditor-backend/issues/1
 
+- @JiHong88: JS put function: https://github.com/gedw99/suneditor-backend/issues/2
+
 - CDC File system watcher
 - CDC Client for CLI ( all desktops ) and Froentend ( wasm )
 - Github ations releaser based on tags.
