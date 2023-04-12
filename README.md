@@ -19,8 +19,17 @@ The following [features](features.md) are planned so that the system is fully fe
 
 ## TODO
 
-- docker build or frontend
-- Server for backend and frontend
+- docker build or frontend. DONE
+
+- Server for backend and frontend. DONE
+
+- Caddy HTTPS
+
+- Caddy NATS hooks
+
+- Does your JS have hooks that fire when a user mutates text or a cat image for example ?
+  - Cause then i can take that hook, send it to the backend or update the backend and all other collaboritive users that the change occurred and then show it in their Sun Editor.
+
 - CDC File system watcher
 - CDC Client for CLI ( all desktops ) and Froentend ( wasm )
 - Github ations releaser based on tags.
