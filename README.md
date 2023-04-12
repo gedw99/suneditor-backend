@@ -13,7 +13,7 @@ Right Pane is a XML Properies view.
 
 ## Features
 
-[a relative link](features.md)
+[features](features.md)
 
 
 ### Collaboration
