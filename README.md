@@ -19,7 +19,7 @@ The following [features](features.md) are planned so that the system is fully fe
 
 ## TODO
 
-- docker build or frontend. DONE
+- js files embed. DONE
 
 - Server for backend and frontend. DONE
 
