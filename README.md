@@ -4,7 +4,7 @@ CDC based backend for suneditor
 
 ## Concept
 
-![alt text](https://raw.githubusercontent.com/gedw99/suneditor-backend/main/concept.png)
+![alt text](https://raw.githubusercontent.com/gedw99/suneditor-backend/main/concept-01.jpg)
 
 
 Left Pane is a File System view
