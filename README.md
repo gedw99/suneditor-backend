@@ -21,11 +21,11 @@ You can still use git, your just exposing the ability to edit the HTML over the 
 
 ### Proxy
 
-YOu can put the files on the server and expose it for collaboration, and also commit to git.
+You can put the files on the server and expose it for collaboration, and also commit to git.
 
 you can also pull from git.
 
-## Git LFS
+### Git LFS
 
 For large local files you need Git LFS. All git lfs does is convert or images, vidoes, etc to a pointer in the git file system. Those pointers point to the asset that is stored in S3.
 
